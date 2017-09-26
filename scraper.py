@@ -2,7 +2,7 @@ import os
 
 search_names = []
 
-fp = open('test1','r+')
+fp = open('all_usernames','r+')
 names = fp.readlines()
 
 for i in names:

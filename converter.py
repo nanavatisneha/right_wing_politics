@@ -2,11 +2,11 @@ import json
 import csv
 
 search_names = []
-names = ["@FrustIndian"]
+names = []
 
-# fp = open('test1','r+')
-# names = fp.readlines()
-# fp.close()
+fp = open('test1','r+')
+names = fp.readlines()
+fp.close()
 
 for i in names:
      search_names.append("from%3A" + i.strip('@').strip('\n'))
