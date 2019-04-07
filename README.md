@@ -18,6 +18,6 @@ Link to twitter users: https://airtable.com/invite/l?inviteId=invunaTAc077sK8jF&
 The reason for this is we can perform topic modelling on them and identify the topics that are being discussed by the media houses and compare it against the topics being discussed by the hindu nationalist handles.
 So open question is: do we want to do a topic modelling (identifying the topic of discussion through their mention in text/data against a time frame, or over all and compare the output of the algorithm with topics zeroed by us physical).
 Let’s discuss this!
-Also, we need more dataset: @Dhruv, can we have more users maybe 30-40 more users? It will enrich the LDA (topic modelling algo)
+
 
 
